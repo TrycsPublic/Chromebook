@@ -4,7 +4,7 @@ This repository contains the source code to the redacted repository.
 
 The redacted repo powers the redacted site, and it is what you will use to host a redacted redacted or mirror.
 
-You can either download already compiled binaries, or compile the Collab3 repository yourself. Compilation instructions
+You can either download already compiled binaries, or compile the redacted repository yourself. Compilation instructions
 are provided in the BUILDING.md file.
 
 redacted was coded and written by[redacted][redacted][redacted]... And maybe
